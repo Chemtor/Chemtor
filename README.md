@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chemtor
 - 👀 I’m interested in Anime, Code, Reading books, etc...
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on University Of Teachnology HCM - VN
+- 💞️ I’m looking to collaborate on University Of Technology HCM - VN
 - 📫 How to reach me: Update...
 
 <!---
