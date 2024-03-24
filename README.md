@@ -8,8 +8,8 @@
 🌱 I’m currently studying:
 - Computer Science
 
-💼 I’m looking to collaborate with:
-- University Of Technology HCM - VN
+💼 I’m learning at:
+- Ho Chi Minh City University of Technology - VNUHCM
 
 📫 How to reach me:
 - GitHub: [@Chemtor](https://github.com/Chemtor)
