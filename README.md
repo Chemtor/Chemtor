@@ -1,4 +1,4 @@
-👋 Hi, I’m @Chemtor 👋
+Hi, I’m @Chemtor 👋
 
 👀 I’m interested in:
 - Anime
