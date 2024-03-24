@@ -1,8 +1,19 @@
-- 👋 Hi, I’m @Chemtor
-- 👀 I’m interested in Anime, Code, Reading books, etc...
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on University Of Technology HCM - VN
-- 📫 How to reach me: Update...
+👋 Hi, I’m @Chemtor 👋
+
+👀 I’m interested in:
+- Anime
+- Coding
+- Reading books
+
+🌱 I’m currently studying:
+- Computer Science
+
+💼 I’m looking to collaborate with:
+- University Of Technology HCM - VN
+
+📫 How to reach me:
+- GitHub: [@Chemtor](https://github.com/Chemtor)
+
 
 <!---
 Chemtor/Chemtor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
