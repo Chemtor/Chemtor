@@ -9,7 +9,7 @@ Hi, I’m @Chemtor 👋
 - Computer Science
 
 💼 I’m learning at:
-- Ho Chi Minh City University of Technology - VNUHCM
+- Ho Chi Minh City University of Technology - VNUHCM (HCMUT)
 
 📫 How to reach me:
 - GitHub: [@Chemtor](https://github.com/Chemtor)
