@@ -1,18 +1,33 @@
-Hi, I’m @Chemtor 👋
+# Hi there, I'm @Chemtor! 👋
 
-👀 I’m interested in:
-- Anime
-- Coding
-- Reading books
+I'm a Computer Science student at Ho Chi Minh City University of Technology (HCMUT) - VNUHCM. I'm passionate about coding, anime, and reading books. Feel free to connect with me or check out some of my projects below! 🚀
 
-🌱 I’m currently studying:
-- Computer Science
+## 🧠 Skills
 
-💼 I’m learning at:
-- Ho Chi Minh City University of Technology - VNUHCM (HCMUT)
+- **Programming Languages**: Python, Java, C++
+- **Technologies**: Git, GitHub, HTML, CSS, JavaScript
 
-📫 How to reach me:
+## 📚 Interests
+
+- Anime 📺
+- Coding 💻
+- Reading Books 📖
+
+## 💼 Education
+
+- **B.Sc. in Computer Science**  
+  Ho Chi Minh City University of Technology - VNUHCM (HCMUT)  
+  *2019 - Present*
+
+## 📫 How to reach me
+
 - GitHub: [@Chemtor](https://github.com/Chemtor)
+
+## 📈 GitHub Stats
+
+[![Chemtor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chemtor&show_icons=true&theme=dark)](https://github.com/Chemtor)
+
+
 
 
 <!---
