@@ -1,6 +1,8 @@
-# Hello, I'm @Chemtor! 👋
+# Hello, fellow coders! 👋 I'm @Chemtor!
 
-I am a Computer Science enthusiast studying at Ho Chi Minh City University of Technology (HCMUT) - VNUHCM. Scroll down to learn more about me and explore some of my projects! 🌟
+🌸 Konnichiwa! I'm a Computer Science student at **Ho Chi Minh City University of Technology (HCMUT)**.
+
+🌟 Here's a little bit about me:
 
 ## 🚀 Quick Overview
 
@@ -15,7 +17,7 @@ I am a Computer Science enthusiast studying at Ho Chi Minh City University of Te
 ## 🎓 Education
 
 **B.Sc. in Computer Science**  
-*Ho Chi Minh City University of Technology - VNUHCM (HCMUT)*  
+*Ho Chi Minh City University of Technology (HCMUT)*  
 *2023 - Present*
 
 ## 🛠️ Skills
