@@ -17,7 +17,7 @@ I'm a Computer Science student at Ho Chi Minh City University of Technology (HCM
 
 - **B.Sc. in Computer Science**  
   Ho Chi Minh City University of Technology - VNUHCM (HCMUT)  
-  *2019 - Present*
+  *2023 - Present*
 
 ## 📫 How to reach me
 
