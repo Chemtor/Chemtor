@@ -1,4 +1,4 @@
-# Hello, fellow coders! 👋 I'm @Chemtor!
+# Hi there! 👋 I'm @Chemtor!
 
 🌸 Konnichiwa! I'm a Computer Science student at **Ho Chi Minh City University of Technology (HCMUT)**.
 
