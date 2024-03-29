@@ -4,8 +4,8 @@ I'm a Computer Science student at Ho Chi Minh City University of Technology (HCM
 
 ## 🧠 Skills
 
-- **Programming Languages**: Python, Java, C++
-- **Technologies**: Git, GitHub, HTML, CSS, JavaScript
+- **Programming Languages**: C++
+- **Technologies**: Git, GitHub
 
 ## 📚 Interests
 
