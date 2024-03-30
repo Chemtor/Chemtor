@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm @Chemtor!
 
-🌸 Konnichiwa! I'm a Computer Science student at **Ho Chi Minh City University of Technology (HCMUT)**.
+🌸 Konnichiwa! I'm a Computer Science student at **Ho Chi Minh City University of Technology (HCMUT)**
 
 🌟 Here's a little bit about me:
 
