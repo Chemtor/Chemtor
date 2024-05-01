@@ -8,6 +8,7 @@
 
 - 🌱 I’m currently honing my skills in:
   - Object-Oriented Programming
+
 - 📚 Interests:
   - Anime 📺
   - Coding 💻
