@@ -7,8 +7,7 @@
 ## 🚀 Quick Overview
 
 - 🌱 I’m currently honing my skills in:
-  - Data Structures and Algorithms (DSA)
-  - Object-Oriented Programming (OOP)
+  - Object-Oriented Programming
 - 📚 Interests:
   - Anime 📺
   - Coding 💻
