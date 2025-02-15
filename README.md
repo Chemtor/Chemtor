@@ -19,19 +19,9 @@
 *Ho Chi Minh City University of Technology (HCMUT)*  
 *2023 - Present*
 
-## 🛠️ Skills
-
-- **Programming Languages**: C++
-<!-- - **Web Development**: HTML, CSS, JavaScript -->
-- **Tools**: Git, GitHub
-
 ## 📊 GitHub Stats
 
 [![Chemtor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chemtor&show_icons=true&theme=react&count_private=true&include_all_commits=true&hide_border=true&border_radius=10&bg_color=0D1117&text_color=FFFFFF&icon_color=58A6FF&title_color=58A6FF)](https://github.com/Chemtor)
-
-## 📫 Connect with Me
-
-- GitHub: [@Chemtor](https://github.com/Chemtor)
 
 
 
