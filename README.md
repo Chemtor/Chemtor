@@ -19,6 +19,12 @@
 *Ho Chi Minh City University of Technology (HCMUT)*  
 *2023 - Present*
 
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Logo_Bach_Khoa_University.svg" alt="HCMUT Logo" width="50"/>
+  <strong>Ho Chi Minh City University of Technology (HCMUT)</strong>
+</p>
+
+
 
 
 
