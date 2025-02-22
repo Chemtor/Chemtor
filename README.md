@@ -10,8 +10,8 @@
 
 - 📚 Hobby:
   - Watching Anime 📺
-  - Coding 💻 (Actually I hate it)
-  - Reading books 📖: Manga :)
+  - Coding 💻 (Actually I hate it 💀)
+  - Reading books 📖: Manga 👀
 
 ## 🎓 Education
 
