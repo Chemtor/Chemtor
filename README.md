@@ -23,6 +23,9 @@
   <img src="https://github.com/Chemtor/Chemtor/blob/main/logo_hcmut.png" alt="HCMUT Logo" width="200"/>
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chemtor&layout=compact)
+
+
 
 
 
