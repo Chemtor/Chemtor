@@ -6,7 +6,7 @@
 
 ## 🚀 Quick Overview
 
-- 🌱 I’m currently honing my skills in: *BE*
+- 🌱 I’m currently honing my skills in: **BE**
 
 - 📚 Hobby:
   - Watching Anime 📺
