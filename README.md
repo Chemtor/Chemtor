@@ -20,7 +20,7 @@
 *2023 - Present*
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Logo_Bach_Khoa_University.svg" alt="HCMUT Logo" width="50"/>
+  <img src="https://github.com/Chemtor/Chemtor/blob/main/logo_hcmut.png" alt="HCMUT Logo" width="50"/>
   <strong>Ho Chi Minh City University of Technology (HCMUT)</strong>
 </p>
 
