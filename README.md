@@ -8,10 +8,10 @@
 
 - 🌱 I’m currently honing my skills in: BE
 
-- 📚 Interests:
-  - Anime 📺
-  - Coding 💻
-  - Reading Books 📖
+- 📚 Hobby:
+  - Watching Anime 📺
+  - Coding 💻 (Actually I hate it)
+  - Reading books 📖: Manga :)
 
 ## 🎓 Education
 
