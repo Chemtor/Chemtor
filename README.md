@@ -19,7 +19,7 @@
 *Ho Chi Minh City University of Technology (HCMUT)*  
 *2023 - Present*
 
-<p align="left" style="margin-left: 100px">
+<p  style="margin-left: 1000px">
   <img src="https://github.com/Chemtor/Chemtor/blob/main/logo_hcmut.png" alt="HCMUT Logo" width="200"/>
 </p>
 
