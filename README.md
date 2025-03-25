@@ -1,12 +1,8 @@
 # Hi there! 👋 I'm @Chemtor!
 
-🌸 Konnichiwa!
+## 🚀 About me
 
-🌟 Here's a little bit about me:
-
-## 🚀 Quick Overview
-
-- 🌱 I’m currently honing my skills in: **BE**
+- 🌱 I’m currently honing my skills in: **Backend**
 
 - 📚 Hobby:
   - Watching Anime 📺
