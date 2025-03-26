@@ -1,4 +1,4 @@
-# https://readme-typing-svg.demolab.com/demo/?weight=700&size=25&center=true&lines=Hi+there%2C+I'm+Hieu
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&center=true&width=435&lines=Hi+there%2C+I'm+Hieu)](https://git.io/typing-svg)
 
 ## 🚀 About me
 
