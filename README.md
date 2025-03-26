@@ -19,10 +19,15 @@
   <img src="https://github.com/Chemtor/Chemtor/blob/main/logo_hcmut.png" alt="HCMUT Logo" width="200"/>
 </p>
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[username-của-bạn]&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[username-của-bạn]&theme=radical" alt="GitHub Streak" />
+</p>
 
-***
-
+---
+##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chemtor&layout=compact&theme=tokyonight)
 
 
