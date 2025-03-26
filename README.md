@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm @Chemtor!
+# https://readme-typing-svg.demolab.com/demo/?weight=700&size=25&center=true&lines=Hi+there%2C+I'm+Hieu
 
 ## 🚀 About me
 
